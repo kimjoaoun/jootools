@@ -1,0 +1,25 @@
+{
+    "id": "93428EFF",
+    "path": null,
+    "project_path": null,
+    "type": "r_code_browser",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1628631340378.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "context": "namespace:usethis:::use_template"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 8,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1628631340378,
+    "read_only": false,
+    "read_only_alternatives": []
+}
